@@ -31,8 +31,6 @@ Tools Used
 - GitHub (Project Documentation)
 
 
----
 
-## 👨‍💻 Author
-
+Author
 Saravanan
